@@ -39,7 +39,7 @@ data_test = pd.read_csv("test.csv")
 
 #reject_question=data.question_text[data['target']==1]
 
-##Trainining tokeizer
+##Trainining tokeizer testing
 
 ###Takes too much time
 #def textclean(text,k_start,k_end):
